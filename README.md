@@ -5,8 +5,8 @@
 - Box Model
 - Flexbox
 ## git command used in this lab
-- git config --global user.name "66160003"
-- git config --global user.email "66160003@go.buu.ac.th"
+- git config --global user.name "Dekbas007"
+- git config --global user.email "66160146@go.buu.ac.th"
 - git clone https://github.com/66160003/css-fundamentals-lab.git
 - git add README.md
 - git commit -m "init project"
